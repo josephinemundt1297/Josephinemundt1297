@@ -28,6 +28,7 @@ Here’s what you’ll find in my repositories:
 ### 🤝 Let’s Connect!
 
 GitHub: @josephinemundt1297
+LinkedIn: https://www.linkedin.com/in/josephine-mundt-6a331437a/
 
 I’m always open to feedback, collaboration, or just a chat about web dev, D&D, or anything else!
 
