@@ -1,34 +1,61 @@
-## Hi there, I’m Josi! 👋
+# Hi, I'm Josephine
 
-I’m a Web Development student at DCI (Digital Career Institute) with a passion for coding, creativity, and continuous learning. This repository is where I document my journey: from course projects to personal experiments.
+I am training as a Web Developer at DCI in Leipzig, with a focus on **React**, **TypeScript**, **accessible UI** and **mobile-first product experiences**.
 
-**🔧 What I’m Working On**
+My strongest interest is frontend work that feels clear, useful and human: small maintainable components, understandable flows, honest MVP scope and interfaces that do not punish people for being tired, busy or new to a product.
 
-- _**Learning**: HTML, CSS, JavaScript, React, and more._
+## What I Am Building
 
-- _**Building**: Small projects, D&D tools, and creative web experiments._
-- _**Exploring**: New technologies and best practices in web development._
-  <br>
+### Adventure Bible
 
-## 🎲 About Me
+Mobile-first habit and quest tracker with RPG elements.
 
-**📚 Currently**: Full-time Web Development course at DCI.
+- **Tech:** React, TypeScript, Vite, TanStack Router, Tailwind CSS, DaisyUI, Clerk, Vitest
+- **Focus:** rule-based adaptive quest recommendations, HP checks, quest progress, rewards, journal and calendar flow
+- **Quality:** typed domain logic, automated tests, linting, production build, product documentation, accessibility and security notes
+- **Live:** [adventure-bible.netlify.app](https://adventure-bible.netlify.app/)
+- **Repo:** [josephinemundt1297/adventure-bible](https://github.com/josephinemundt1297/adventure-bible)
 
-**🎲 Hobbies**: Playing Dungeons & Dragons (I love storytelling and exploring new worlds!).
+### PlayDate
 
-**🌱 Always eager to learn new skills.**
+Mobile-first React training project for planning private playdates.
 
-**📂 My Projects:**
-Here’s what you’ll find in my repositories:
+- **Tech:** React, TypeScript, TanStack Router, Clerk, DaisyUI, PWA, Vitest, Testing Library
+- **Focus:** forms, protected routes, local prototype data, calendar export, privacy-aware product boundaries
+- **Quality:** documented MVP scope, accessibility notes, tests, build and security limitations
+- **Repo:** [josephinemundt1297/PlayDate](https://github.com/josephinemundt1297/PlayDate)
 
-- Course assignments from DCI
-- Personal projects (web apps, games, and tools)
-- Experiments with new frameworks and APIs
+### D&D And Creative Web Projects
 
-### 🤝 Let’s Connect!
+I also build smaller projects around storytelling, games and frontend fundamentals. These projects document my learning path from HTML, CSS and JavaScript toward larger React applications.
 
-LinkedIn: https://www.linkedin.com/in/josephine-mundt-6a331437a/
+- [d-and-d-project](https://github.com/josephinemundt1297/d-and-d-project)
+- [js-casino](https://github.com/josephinemundt1297/js-casino)
+- [git-cheatsheet](https://github.com/josephinemundt1297/git-cheatsheet)
 
-I’m always open to feedback, collaboration, or just a chat about web dev, D&D, or anything else!
+## Current Focus
 
-**_Happy coding_** 🚀
+- React component architecture
+- TypeScript models and domain logic
+- Routing and protected UI flows
+- Form handling and state management
+- Testing observable behavior with Vitest and Testing Library
+- Accessibility from the beginning, not as an afterthought
+- Clear technical documentation for project decisions and limitations
+
+## How I Work
+
+I care about code that another developer can read without guessing the intention. I try to keep projects small enough to understand, but complete enough to show real product thinking: empty states, error states, responsive behavior, accessibility, privacy boundaries and testable logic.
+
+I am still learning, and I prefer to make that visible through steady projects, documented decisions and working software instead of pretending to be further along than I am.
+
+## Background
+
+Before moving into web development, I worked in a customer-facing role. That experience shaped how I think about clear communication, reliable workflows and user-friendly interfaces.
+
+I am currently looking for opportunities to grow into a **Junior Frontend Developer** or **Junior Web Developer** role in a team where I can learn from experienced developers and contribute carefully.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/josephine-mundt-6a331437a/)
+- [GitHub](https://github.com/josephinemundt1297)
