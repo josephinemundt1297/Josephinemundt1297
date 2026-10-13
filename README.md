@@ -57,4 +57,4 @@ I am currently looking for opportunities to grow into a **Junior Frontend Develo
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/josephine-mundt-6a331437a/)
+- [LinkedIn](www.linkedin.com/in/josephine-mundt-dev)
